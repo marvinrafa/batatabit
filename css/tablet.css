@@ -1,0 +1,35 @@
+.tables-container__slider-button-right,
+.tables-container__slider-button-left {
+  display: none;
+}
+
+.tables-container--slider {
+  display: flex;
+  justify-content: center;
+  overflow-x: hidden;
+}
+
+.main-table-container,
+.comisions-table-container {
+  width: 35%;
+  min-width: 250px;
+  margin: 0 0 0 0;
+}
+
+.main-table-container__title,
+.comisions-table-container__title {
+  width: 90%;
+}
+
+.main-table,
+.comisions-table {
+  width: 90%;
+}
+.product-cards-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 20px;
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto;
+}

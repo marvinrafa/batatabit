@@ -1,0 +1,81 @@
+.plans-cards-container--slider {
+  justify-content: center;
+}
+
+header img {
+  width: 170px;
+  height: 43px;
+}
+.header__title-container {
+  max-width: 900px;
+}
+.header__title-container h1 {
+  font-size: 4rem;
+  line-height: 4.2rem;
+}
+.header__title-container p {
+  margin-top: 32px;
+  font-size: 2rem;
+  line-height: 2.4rem;
+}
+.header__title-container .header__button {
+  font-size: 1.8rem;
+  width: 300px;
+  padding: 1.2rem;
+  left: calc(50% - 150px);
+}
+.main-exchange-container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+.main-exchange-container__title h2 {
+  font-size: 4rem;
+  line-height: 4.2rem;
+}
+.main-exchange-container__title p {
+  font-size: 2rem;
+  line-height: 2.4rem;
+}
+.main-product-detail {
+  padding-bottom: 50px;
+}
+.main-product-detail__title > h2 {
+  font-size: 4rem;
+  line-height: 4.2rem;
+}
+.main-product-detail__title > p {
+  font-size: 2rem;
+  line-height: 2.4rem;
+}
+.bitcoin-img-container h2 {
+  font-size: 4rem;
+  line-height: 4.2rem;
+  padding-top: 0px;
+}
+.bitcoin-img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.plans__title {
+  max-width: 900px;
+}
+.plans__title h2 {
+  font-size: 4rem;
+  line-height: 4.2rem;
+}
+.plans__title p {
+  font-size: 2rem;
+  line-height: 2.4rem;
+}
+footer {
+  height: 250px;
+}
+footer .left-section ul {
+  font-size: 2rem;
+
+  line-height: 2.4rem;
+}
+footer .footer-img {
+  width: 160px;
+}
